@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Editor
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Backup files (e.g., from install.sh testing)
+*.backup
+*.bak
+
+# Local user state
+.claude/scheduled_tasks.lock
+.claude/scheduled_tasks.json
